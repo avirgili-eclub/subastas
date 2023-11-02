@@ -1,4 +1,4 @@
-package com.subaxpress.subastas;
+package com.subaxpress.domain.subastas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
